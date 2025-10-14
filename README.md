@@ -10,7 +10,7 @@ Generates unique 10% off welcome coupon codes for new SnowBigDeal subscribers. W
 ## Task Pipeline
 - Visitor Subscribes to SnowBigDeal Email or SMS Service
 - A Code is Generated on BigCommerce and Supplied to Mailchimp
-- Subscriber Recieves a Welcome Message (Email/SMS) with Code
+- Subscriber Receives a Welcome Message (Email/SMS) with Code
 
 ## Qualified Audience (Manual Subscribers Only)
 - We only want to generate codes for a qualified audience of manual subscribers—not subscribers automatically added to our audience via a purchase.
