@@ -12,6 +12,9 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+// Import Webhook Routes
+app.use('/webhook', require('./routes/webhooks'));
+
 // Health Check Endpoint
 app.get('/', (req, res) => {
   res.send('Code Generator Server is Running');
