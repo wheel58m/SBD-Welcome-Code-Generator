@@ -12,6 +12,9 @@ Generates unique 10% off welcome coupon codes for new SnowBigDeal subscribers. W
 - A Code is Generated on BigCommerce and Supplied to Mailchimp
 - Subscriber Recieves a Welcome Message (Email/SMS) with Code
 
+## Qualified Audience (Manual Subscribers Only)
+- We only want to generate codes for a qualified audience of manual subscribers—not subscribers automatically added to our audience via a purchase.
+
 ## BigCommerce Code Generation
 - New Codes are generated in BigCommerce under the existing Welcome Coupon promotion (#50) as sub-codes.
 
