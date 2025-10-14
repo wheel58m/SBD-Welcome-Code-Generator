@@ -15,4 +15,11 @@ Generates unique 10% off welcome coupon codes for new SnowBigDeal subscribers. W
 ## BigCommerce Code Generation
 - New Codes are generated in BigCommerce under the existing Welcome Coupon promotion (#50) as sub-codes.
 
-## Node Packages & Technologies
+## Node Packages & Dependencies
+
+### Production Dependencies
+- **express** (v5.1.0) - Web application framework for handling HTTP requests and webhook endpoints
+- **dotenv** (v17.2.3) - Loads environment variables from .env file for secure API key management
+
+### Development Dependencies
+- **nodemon** (v3.1.10) - Automatically restarts the server during development when files change
