@@ -1,0 +1,20 @@
+{
+  "name": "sbd-welcome-code-generator-(app)",
+  "version": "1.0.0",
+  "description": "Generates unique 10% off welcome coupon codes for new SnowBigDeal subscribers. When a visitor joins the email or SMS list, the app automatically creates a single-use coupon in BigCommerce and syncs it to Mailchimp so the code can be sent instantly in the welcome message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wheel58m/SBD-Welcome-Code-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wheel58m/SBD-Welcome-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/wheel58m/SBD-Welcome-Code-Generator#readme"
+}
